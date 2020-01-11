@@ -1,0 +1,9 @@
+{"_id":{"$oid":"58b603b1ef9f298bd0253982"},"name":"O'riley"}
+{"_id":{"$oid":"58b603b1ef9f298bd0253983"},"name":"Medium"}
+{"_id":{"$oid":"58b603b1ef9f298bd0253984"},"name":"Alfa"}
+{
+    "_id": {
+        "$oid": "58b603b1ef9f298bd0253985"
+    },
+    "name": "McGraw Hill"
+}
